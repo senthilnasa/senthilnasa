@@ -1,23 +1,41 @@
-<h1 align="center">Hi 👋, I'm Senthil Prabhu</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+# Hello, World! 👋 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senthilnasa" alt="senthilnasa" /></a> </p>
+I'm SenthilNasa, a software developer and space enthusiast with a passion for applying advanced technological solutions to real-world problems.
 
-<p align="left"> <a href="https://twitter.com/senthilnasa005" target="blank"><img src="https://img.shields.io/twitter/follow/senthilnasa005?logo=twitter&style=for-the-badge" alt="senthilnasa005" /></a> </p>
+I'm proficient in a wide range of programming languages and frameworks, with a particular interest in golang, flutter, Java, Php , and their respective frameworks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/senthilnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="senthilnasa" height="30" width="40" /></a>
-<a href="https://twitter.com/senthilnasa005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senthilnasa005" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/senthilnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthilnasa" height="30" width="40" /></a>
-<a href="https://instagram.com/senthilnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senthilnasa" height="30" width="40" /></a>
-</p>
+## 👨‍💻 Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+* **Languages**: Golang, Flutter, Java, Php, C++, HTML/CSS
+* **Databases**: MySQL, PostgreSQL, MongoDB
+* **Cloud Technologies**: AWS, Google Cloud, Microsoft Azure
+* **Tools**: Git, Docker, CI/CD, Jenkins
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senthilnasa&show_icons=true&locale=en&layout=compact" alt="senthilnasa" /></p>
+## 🚀 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senthilnasa&show_icons=true&locale=en" alt="senthilnasa" /></p>
+* **Golang MySQL Package**: [[Link to Package]](https://github.com/senthilnasa/gomysql) - A Golang Mysql Server Pool Package to Prevent SQL Injection and Mysql Connect Manager.
+* **CAMPUSSTACKCAMPUSSTACK**: [[Link to App]](https://play.google.com/store/apps/details?id=org.campusstack.campusstack) - An App-based ERP for the Entire Instructions Known as Campus Stack.
+* **High Chart Flutter Package**: [[Link to Package]](https://pub.dev/packages/high_chart) - A Flutter Package build up on chart library based on High Charts (.JS), able to build advanced charts like Pie chart, linear chart, etc.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senthilnasa&" alt="senthilnasa" /></p>
+
+## 🌱 I’m currently learning
+
+* Advanced concepts in machine learning and artificial intelligence.
+* Cloud-native architectures and microservices.
+* Data Structures and Algorithms.
+
+## 📫 How to reach me:
+
+* Email: senthilprabu005@gmail.com
+* LinkedIn: [SenthilNasa](https://www.linkedin.com/in/senthilnasa/)
+* Twitter: [@senthilnasa](https://twitter.com/senthilnasa005)
+
+_Replace the above contact information with your actual contact information._
+
+Please feel free to reach out if you have any questions, or if you want to discuss potential collaborations. Looking forward to connecting with you!
+
+Remember, the sky's not the limit, there are footprints on the moon! 🌙
+
+![SenthilNasa's github stats](https://github-readme-stats.vercel.app/api?username=senthilnasa&show_icons=true&theme=tokyonight)
+
+_"I don't fear computers. I fear the lack of them."_ - Isaac Asimov
